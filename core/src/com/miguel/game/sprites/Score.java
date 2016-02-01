@@ -14,8 +14,8 @@ public class Score {
 
     }
 
-    public Texture getScore(){
-        return 
+    public void getScore(){
+        
     }
     public void updateScore(float s){
         score = score + s;
